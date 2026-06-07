@@ -1,0 +1,8 @@
+*.o
+tests
+newtests
+lab3_tests
+program
+.DS_Store
+.vscode/
+.idea/
